@@ -101,7 +101,7 @@ def main():
 
 if __name__ == '__main__':
     import multiprocessing    
-    #Brute(0,10000,0)
+    
     main()
     
 
