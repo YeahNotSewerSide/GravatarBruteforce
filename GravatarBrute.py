@@ -143,7 +143,11 @@ def main():
 
 if __name__ == '__main__':
     import multiprocessing    
+<<<<<<< HEAD
     #Brute(0,10000,0,1)
+=======
+    
+>>>>>>> a44307116adc6742c96e87f4b9cf6fc2ce218109
     main()
     
 
